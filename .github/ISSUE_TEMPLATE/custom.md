@@ -12,7 +12,7 @@ Escribe de manera concisa cual es la duda
 
 **Código:**
 ```
-Escribe aquí el código (si porcede)
+Escribe aquí el código (si procede)
 ```
 
 **Captura de pantalla:**

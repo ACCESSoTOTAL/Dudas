@@ -7,4 +7,17 @@ assignees: ''
 
 ---
 
+**Descripción del problema:**
+Escribe de manera concisa cual es la duda
+
+**Código:**
+```
+Escribe aquí el código (si porcede)
+```
+
+**Captura de pantalla:**
+Aquí puedes colocar las capturas de pantalla que ayuden a entender el problema
+
+**Archivos:**
+Si lo deseas, puedes subir tu archivo
 
